@@ -1,5 +1,3 @@
-#Make sure to update the <FMI> fields to match your bucket information 
-
 import com.amazonaws.AmazonServiceException;
 import com.amazonaws.regions.Regions;
 import com.amazonaws.services.s3.AmazonS3;
